@@ -1,0 +1,3 @@
+[submodule "src/submodules/llm-awq"]
+	path = src/submodules/llm-awq
+	url = https://github.com/mit-han-lab/llm-awq.git
