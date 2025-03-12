@@ -21,9 +21,13 @@ This section provides an overview of various quantization methods used in LLMs, 
 1. Clone the repo:
     ```sh
     https://github.com/Ahmed-El-Zainy/coding_quantization_methods.git
-    cd TRELLIS
+    cd coding_quantization_methods
     ```
 2. Install the dependencies:
+    for starting direct to the running:
+    ```sh
+    . ./setup.sh --new-env
+    ```
     
     **Before running the following command there are somethings to note:**
     - By adding `--new-env`, a new conda environment named `trellis` will be created. If you want to use an existing conda environment, please remove this flag.
