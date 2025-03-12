@@ -3,7 +3,6 @@
 This section provides an overview of various quantization methods used in LLMs, along with their implementation progress.
 
 ## Mapping:
-
 | Method  | Release Date | Link | Progress |
 |---------|-------------|------|-----------|
 | LLM.int8() | Aug 2022 | [🔗 Link](https://huggingface.co/blog/hf-bitsandbytes-integration) | 🚧 Under Progress |
@@ -24,6 +23,6 @@ This section provides an overview of various quantization methods used in LLMs, 
 
 ## References:
 * https://archive.ph/rGZ2H
-
+* https://github.com/Cornell-RelaxML/QuIP
 
 
