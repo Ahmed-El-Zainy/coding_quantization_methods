@@ -17,12 +17,18 @@ This section provides an overview of various quantization methods used in LLMs, 
 
 
 
-
+### Installation Steps
+1. Clone the repo:
+    ```sh
+    git clone --recurse-submodules https://github.com/microsoft/TRELLIS.git
+    cd TRELLIS
+    ```
 
 
 
 ## References:
 * https://archive.ph/rGZ2H
 * https://github.com/Cornell-RelaxML/QuIP
+* https://github.com/microsoft/TRELLIS
 
 
