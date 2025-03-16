@@ -2,8 +2,8 @@
 
 ----
 ## if any one want to contribute to this repo,
-- juse send email : ahmedelzainy44@gmail.com
-to add you with user name to the repo.
+- just send email to  : ahmedelzainy44@gmail.com
+to add you to the repo.
 -----
 
 
