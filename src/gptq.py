@@ -13,4 +13,8 @@ def init_gptq(model_id: str, quant_config: GPTQConfig):
     return model, tokenizer
 
 if __name__=="__main__":
+    model, tokenizer = init_gptq("TheBloke/Llama-2-7B-GPTQ", GPTQConfig(bits=4, group_size=128))
     
+    # Example usage of the model and tokenizer
+    print(model)
+    print(tokenizer)
