@@ -7,3 +7,7 @@ pandas
 matplotlib
 seaborn
 scikit-learn
+auto-gptq 
+accelerate
+datasets 
+bitsandbytes 
