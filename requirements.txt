@@ -11,3 +11,6 @@ auto-gptq
 accelerate
 datasets 
 bitsandbytes 
+wheel
+setuptools
+twine
