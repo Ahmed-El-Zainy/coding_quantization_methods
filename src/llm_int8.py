@@ -7,3 +7,11 @@ def llmInt8():
                                                                trust_remote_code=True)
     
     return model
+
+
+
+
+
+if __name__ == "__main__":
+    model = llmInt8()
+    print("Model loaded successfully.")
